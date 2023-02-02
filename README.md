@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 The name's Juan Carlos, but you can call me with any of those names or you can just call me Charlie. I am a 21 y.o Computer Systems Engineering Student with a degree
-as a programming technician. My goal is to be a frontend and backend developer. :computer: <br>
+as a programming technician. My goal is to be a **frontend and backend developer** and my GitHub profile will witness it! :computer: :sparkles: <br>
 
 I hope you find what you're looking for here at my git profile. Wanna know more about me? Sure! Here 'ya go:
 
