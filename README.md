@@ -14,7 +14,8 @@ I hope you find what you're looking for here at my git profile. Wanna know more 
 - 😄 My pronouns He/Him/His
 - ⚡ Fun fact: I am a HUGE Taylor Swift fan. I just love her!
 
+<p align="center">
 
-[![Charlie's github stats](https://github-readme-stats.vercel.app/api?username=Crypto-ch4r&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r)](https://github.com/Crypto-ch4r/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r)](https://github.com/anuraghazra/github-readme-stats)
+</p>
