@@ -6,7 +6,7 @@ as a programming technician. My goal is to be a **frontend and backend developer
 I hope you find what you're looking for here at my git profile. Wanna know more about me? Sure! Here 'ya go:
 
 - 🔭 I’m currently working on my professional and personal growth.
-- :earth_americas: I speak English and Spanish. They're both my native languages. 
+- :earth_americas: I speak English and Spanish.
 - 🌱 I’m currently learning frontend and backend for Web Development! 
 - 🤔 I’m looking for help with learning frontend and backend for Android Development!
 - 💬 Ask me about the novels and some other stuff I write as a hobby.
