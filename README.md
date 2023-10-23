@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=3F62A7&center=true&vCenter=true&random=false&width=600&height=100&lines=J.C+Zendejas+Mart%C3%ADnez;+Computer+Systems+Engineering+Student;Programming+Technician;Web+Developer;Active+Learner+%3C3" alt="Typing SVG" /></a>
+
 The name's Juan Carlos, but you can call me with any of those names or you can just call me Charlie. I am a 21 y.o Computer Systems Engineering Student with a degree
 as a programming technician. My goal is to be a **frontend and backend developer** and my GitHub profile will witness it! :computer: :sparkles: <br>
 
