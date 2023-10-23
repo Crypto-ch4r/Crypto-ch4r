@@ -1,4 +1,4 @@
-<h1>Hi there, fellow ```<developers />``` 👋</h1>
+<h1>Hi there, fellow developers 🫀 </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=3F62A7&center=true&vCenter=true&random=false&width=600&height=100&lines=J.C+Zendejas+Mart%C3%ADnez;+Computer+Systems+Engineering+Student;Programming+Technician;Web+Developer;Active+Learner+%3C3" alt="Typing SVG" /></a>
 
