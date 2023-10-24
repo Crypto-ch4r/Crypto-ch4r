@@ -1,4 +1,4 @@
-<h1>Hi there, fellow developers 🫀 </h1>
+<h1>Hi there, fellow developers 👽 </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=3F62A7&center=true&vCenter=true&random=false&width=600&height=100&lines=J.C+Zendejas+Mart%C3%ADnez;+Computer+Systems+Engineering+Student;Programming+Technician;Web+Developer;Active+Learner+%3C3" alt="Typing SVG" /></a>
 
@@ -55,8 +55,6 @@ export class Social {
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
@@ -81,4 +79,6 @@ export class Social {
    &emsp;
 </p>
 
-![Crypto-ch4r's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r&theme=tokyonight&layout=compact)
+### 🐱My Github stats:
+![Crypto-ch4r's github stats](https://github-readme-stats.vercel.app/api?username=Crypto-ch4r&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Crypto-ch4r/github-readme-stats)
