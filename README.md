@@ -1,7 +1,6 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+<p align="right"> <img src="https://gpvc.arturio.dev/Crypto-ch4r" alt="Profile count" /> </p>
 
 <div align="center">
-
 
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
@@ -176,4 +175,5 @@ If you have any questions about web development, writing mistake-free documentat
 
 ### My Github stats 👽
 <p align="center">
-![Crypto-ch4r's github stats](https://github-readme-stats.vercel.app/api?username=Crypto-ch4r&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Crypto-ch4r/github-readme-stats)</p>
+![Crypto-ch4r's github stats](https://github-readme-stats.vercel.app/api?username=Crypto-ch4r&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Crypto-ch4r/github-readme-stats)
+</p>
