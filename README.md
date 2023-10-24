@@ -80,6 +80,4 @@ export class Social {
 </p>
 
 ### 🐱My Github stats:
-![Crypto-ch4r's github stats](https://github-readme-stats.vercel.app/api?username=Crypto-ch4r&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Crypto-ch4r/github-readme-stats)
+![Crypto-ch4r's github stats](https://github-readme-stats.vercel.app/api?username=Crypto-ch4r&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Crypto-ch4r/github-readme-stats)
