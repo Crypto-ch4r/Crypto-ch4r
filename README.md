@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/Crypto-ch4r" alt="Profile count" /> </p>
+<p align="right"> <img src="https://profile-counter.glitch.me/Crypto-ch4r/count.svg"> </p>
 
 <div align="center">
 
@@ -174,6 +174,6 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 ### My Github stats 👽
-<p align="center">
+
 ![Crypto-ch4r's github stats](https://github-readme-stats.vercel.app/api?username=Crypto-ch4r&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crypto-ch4r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Crypto-ch4r/github-readme-stats)
-</p>
+
