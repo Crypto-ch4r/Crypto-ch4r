@@ -33,7 +33,7 @@
  * @param {string} interests - AI, writing & problem-solving.
  * @param {string} hobbies - Reading, writing, listening to Taylor Swift & gym.
  * @param {string} education - ISC, TecNM Campus Ciudad Hidalgo.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
+ * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to reach out.
  * @param {string} stength - Empathy.
  * @param {string} weakness - Shyness.
  * @param {Date} birthday - 22th of August 2001.
